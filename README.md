@@ -7,29 +7,28 @@
 <br><br>
 
 <a href="https://github.com/wuyanwh">
-  <img height="22" alt="GitHub" src="https://img.shields.io/badge/GitHub-wuyanwh-6B7280?style=flat&logo=github&logoColor=white&labelColor=F9A8D4">
+  <img alt="GitHub" src="https://img.shields.io/badge/GITHUB-wuyanwh-222222?style=for-the-badge&logo=github&logoColor=white&labelColor=666666">
 </a>
-&nbsp;
-<img height="22" alt="QQ" src="https://img.shields.io/badge/QQ-1271944500-38BDF8?style=flat&logo=tencentqq&logoColor=white&labelColor=A7F3D0">
-&nbsp;
+
+<br><br>
+
+<img alt="QQ" src="https://img.shields.io/badge/QQ-1271944500-EF233C?style=for-the-badge&logo=tencentqq&logoColor=white&labelColor=666666">
+
+<br><br>
+
 <a href="mailto:wuyanweihe@gmail.com">
-  <img height="22" alt="Email" src="https://img.shields.io/badge/Email-wuyanweihe%40gmail.com-F87171?style=flat&logo=gmail&logoColor=white&labelColor=FDE68A">
+  <img alt="Email" src="https://img.shields.io/badge/EMAIL-wuyanweihe%40gmail.com-E84545?style=for-the-badge&logo=gmail&logoColor=white&labelColor=666666">
 </a>
 
 <br><br>
 
-<img height="22" alt="Learning" src="https://img.shields.io/badge/Learning-Algorithms-F9A8D4?style=flat">
-<img height="22" alt="Building" src="https://img.shields.io/badge/Building-Small%20Projects-A7F3D0?style=flat">
-<img height="22" alt="Notes" src="https://img.shields.io/badge/Notes-Daily%20Practice-FDE68A?style=flat">
+**Language(Learning):** Java, Python, C#
 
 <br><br>
 
-<img height="22" alt="Java" src="https://img.shields.io/badge/Java-Study-F87171?style=flat">
-<img height="22" alt="Python" src="https://img.shields.io/badge/Python-Practice-38BDF8?style=flat">
-<img height="22" alt="CSharp" src="https://img.shields.io/badge/C%23-Basics-C4B5FD?style=flat">
-
-<br><br>
+Please feel free to guide me.
 
 <sub>Thanks for visiting.</sub>
 
 </div>
+
