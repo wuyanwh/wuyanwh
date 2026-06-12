@@ -1,23 +1,23 @@
 <div align="center">
 
-# ✨ Algorithms Newbie · Novice Developer
+# ✨ Learning Algorithms · Building Little Things
 
 <sub>learning slowly · building tiny things · keeping notes</sub>
 
 <br><br>
 
 <a href="https://github.com/wuyanwh">
-  <img alt="GitHub" src="https://img.shields.io/badge/GITHUB-wuyanwh-222222?style=for-the-badge&logo=github&logoColor=white&labelColor=666666">
+  <img height="22" alt="GitHub" src="https://img.shields.io/badge/GITHUB-wuyanwh-6B7280?style=flat&logo=github&logoColor=white&labelColor=F9A8D4">
 </a>
 
 <br><br>
 
-<img alt="QQ" src="https://img.shields.io/badge/QQ-1271944500-EF233C?style=for-the-badge&logo=tencentqq&logoColor=white&labelColor=666666">
+<img height="22" alt="QQ" src="https://img.shields.io/badge/QQ-1271944500-38BDF8?style=flat&logo=tencentqq&logoColor=white&labelColor=A7F3D0">
 
 <br><br>
 
 <a href="mailto:wuyanweihe@gmail.com">
-  <img alt="Email" src="https://img.shields.io/badge/EMAIL-wuyanweihe%40gmail.com-E84545?style=for-the-badge&logo=gmail&logoColor=white&labelColor=666666">
+  <img height="22" alt="Email" src="https://img.shields.io/badge/EMAIL-wuyanweihe%40gmail.com-F87171?style=flat&logo=gmail&logoColor=white&labelColor=FDE68A">
 </a>
 
 <br><br>
@@ -31,4 +31,6 @@ Please feel free to guide me.
 <sub>Thanks for visiting.</sub>
 
 </div>
+
+
 
